@@ -15,3 +15,4 @@ end
 outer_results << lowest_temp
 row_index += 1
 end
+  end
